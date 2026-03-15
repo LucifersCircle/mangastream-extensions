@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-03-02T03:07:49.591Z",
+  "buildTime": "2026-03-15T05:58:40.308Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.57",
     "types": "1.0.0-alpha.57"
@@ -100,6 +100,29 @@
         }
       ],
       "id": "ManhwaX"
+    },
+    {
+      "name": "Rage Scans",
+      "description": "Extension that pulls content from ragescans.com.",
+      "version": "1.0.0-alpha.1",
+      "icon": "icon.png",
+      "language": "en",
+      "contentRating": "SAFE",
+      "capabilities": [
+        1,
+        4,
+        64,
+        32,
+        16
+      ],
+      "badges": [],
+      "developers": [
+        {
+          "name": "nyzzik",
+          "github": "https://github.com/nyzzik"
+        }
+      ],
+      "id": "RageScans"
     },
     {
       "name": "SushiScans",
